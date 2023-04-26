@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandr Kormachev</h1>
-<h3 align="center">Middle Fullstack developer (Laravel + VueJS)</h3>
+<h3 align="center">Middle fullstack developer (Laravel + VueJS)</h3>
 
 <p align="left">
 </p>
